@@ -1,0 +1,67 @@
+header{
+  background-color: goldenrod;
+  text-align: center;
+  font-family: 'Trebuchet MS';
+  letter-spacing: 2px;
+  color: steelblue
+}
+body{
+  background-color: slategray
+}
+main{
+  background-color: steelblue;
+}
+nav{
+  text-align: center;
+  font-family: cursive;
+  padding: 30px;
+  border-radius: 50%;
+  border: 7px dotted gold;
+  margin: 35px;
+  height: 10px
+}
+a:link{
+  color: slateblue
+}
+a:visited{
+  color: peru
+}
+a:hover{
+  color: gold
+}
+a:active{
+  color: greenyellow
+}
+article{
+  background-color: goldenrod;
+  color: slategray;
+  padding: 20px
+}
+
+.tahoma{
+  font-family: tahoma;
+} 
+.cursive{
+  font-family: cursive
+}
+.center{
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  text-align: center;
+}
+.st-blue{
+  color: steelblue
+}
+.wrapper {
+  width: 500px;
+  margin: auto;
+}
+ul{
+  letter-spacing: 1.5px;
+  line-height: 25px
+}
+p, ol{
+  font-size: 25px;
+  color: slategray
+}
