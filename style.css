@@ -1,19 +1,22 @@
 header{
   background-color: goldenrod;
   text-align: center;
-  font-family: 'Trebuchet MS';
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   letter-spacing: 2px;
-  color: steelblue
+  color: blanchedalmond
 }
+/*background styling*/
 body{
-  background-color: slategray
+  background-color: maroon
 }
+
 main{
-  background-color: steelblue;
+  background-color: goldenrod;
 }
+/* Links and Nav styling start*/
 nav{
   text-align: center;
-  font-family: cursive;
+  font-family: "Comic Sans MS", 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   padding: 30px;
   border-radius: 50%;
   border: 7px dotted gold;
@@ -21,10 +24,10 @@ nav{
   height: 10px
 }
 a:link{
-  color: slateblue
+  color: bisque
 }
 a:visited{
-  color: peru
+  color: crimson
 }
 a:hover{
   color: gold
@@ -32,17 +35,19 @@ a:hover{
 a:active{
   color: greenyellow
 }
+/* Links and Nav styling end*/
+
 article{
-  background-color: goldenrod;
-  color: slategray;
+  background-color: maroon;
+  color: blanchedalmond;
   padding: 20px
 }
-
+/*classes start*/
 .tahoma{
   font-family: tahoma;
 } 
-.cursive{
-  font-family: cursive
+.comic{
+  font-family: "Comic Sans MS", 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .center{
   margin: auto;
@@ -50,18 +55,17 @@ article{
   padding: 10px;
   text-align: center;
 }
-.st-blue{
-  color: steelblue
-}
+
 .wrapper {
   width: 500px;
   margin: auto;
 }
+/*classes end */
 ul{
   letter-spacing: 1.5px;
   line-height: 25px
 }
 p, ol{
   font-size: 25px;
-  color: slategray
+  color: blanchedalmond
 }
