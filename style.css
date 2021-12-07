@@ -3,7 +3,8 @@ header{
   text-align: center;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   letter-spacing: 2px;
-  color: blanchedalmond
+  color: black;
+  
 }
 /*background styling*/
 body{
@@ -17,11 +18,13 @@ main{
 nav{
   text-align: center;
   font-family: "Comic Sans MS", 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  padding: 30px;
+  padding: 32px;
   border-radius: 50%;
   border: 7px dotted gold;
-  margin: 35px;
-  height: 10px
+  margin: auto;
+  height: 20px;
+  background-color: black
+  
 }
 a:link{
   color: bisque
